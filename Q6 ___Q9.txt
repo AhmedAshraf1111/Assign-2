@@ -1,0 +1,13 @@
+Q6) 
+a:
+Ans -->no arg constructor is invoked 
+b: 
+Ans --> doesnt have a arg constructor 
+---------------------------------------------------------------
+Q7) 
+line 21 correction:super(radius); 
+line 22 correction: this.length=length ;
+----------------------------------------------------------------
+Q8) Ans:overridden
+----------------------------------------------------------------
+Q9)it will be syntax error
